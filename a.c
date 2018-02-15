@@ -22,7 +22,7 @@ int main()
 
 	area=pi*radius*radius;
 
-	printf("The area of the circle is : %.5f",area );
+	printf("The area of the circle is : %.2f",area );
 
 	return 0;
 }
